@@ -12,7 +12,7 @@
     "url": "git+https://github.com/johnnynotsolucky/falsy.git"
   },
   "author": "johnnynotsolucky",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/johnnynotsolucky/falsy/issues"
   },
