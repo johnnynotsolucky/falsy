@@ -1,7 +1,7 @@
 {
   "name": "falsy",
   "version": "0.0.1",
-  "description": "",
+  "description": "Test whether an object is falsy",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
