@@ -1,0 +1,24 @@
+{
+  "name": "falsy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnynotsolucky/falsy.git"
+  },
+  "author": "johnnynotsolucky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnynotsolucky/falsy/issues"
+  },
+  "homepage": "https://github.com/johnnynotsolucky/falsy#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
